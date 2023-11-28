@@ -1,0 +1,25 @@
+File Organization
+
+1. Data
+
+- **data set.csv**: Randomly generated data in CSV format.
+- **book1.csv**: Data imported from SQL after data engineering.
+
+
+2. Scripts
+
+- **sql_scripts/**
+  - *SQL Script - Data engineering*: SQL script for data engineering.
+ 
+- **python_scripts/**
+  - *Analysis on amazon supply chain.ipynb*: Jupyter Notebook for analysis on Amazon supply chain.
+  - *Analysis on amazon supply chain.py*: Python script for the same analysis.
+
+- **power_bi_dashboard/**
+  - *amazon_sales_dashboard.pbix*: Power BI dashboard for Amazon sales.
+
+### 3. Reports
+
+- *amazon_operations_analysis_report.pdf*: Documentation/report on Amazon operations data analysis.
+
+
